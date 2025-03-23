@@ -18,7 +18,7 @@
 - Doğrudan kullanıcı girdisi sorguya dahil edilmedi.
 
 ## 📹 İstismar Videosu:
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+
 
 ## 💡 Çalıştırma Talimatları:
 1. Kod dosyasını çalıştır.
